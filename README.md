@@ -6,3 +6,6 @@
 
 ### Flake8 linter status:
 [![Github Actions Status](https://github.com/sanyabotva/python-project-lvl1/actions/workflows/lint.yml/badge.svg)](https://github.com/sanyabotva/python-project-lvl1/actions)
+
+Links:
+Asciinema - https://asciinema.org/a/vZedhnBPNkvqkTIX1rZ6c0pHY?t=3
